@@ -37,7 +37,7 @@
 
 5.Dashboard development: Involve developing a dashboard to visualize the sales data and present it in a meaningful way.
 
-**Over Tablue**
+**Over Tableau**
 <code> <img src="Sales-Insights.png"> </code>
 
 # Thank You
