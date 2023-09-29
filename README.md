@@ -8,7 +8,7 @@ In response to the challenges faced by AtliQ, it has been decided to implement A
 
 Purpose: The purpose of AIMS Grade is to provide a comprehensive solution for managing sales data and gaining valuable insights.
 
-## Stakeholders: AIMS Grade involves collaboration among various stakeholders, including:
+Stakeholders: AIMS Grade involves collaboration among various stakeholders, including:
 
 IT Team: Responsible for the technical implementation of the system.
 Marketers: Use sales data to make marketing decisions.
