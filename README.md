@@ -1,45 +1,43 @@
 # Sales-Insight
-### AtliQ Sales Management System
+## Dashboards On AtliQ Sales Data
+**Over PowerBI**
+
+<code> <img src="Sales-Dashboard.png"> </code>
+
+**Mobile View**
+
+<code> <img src="Mob-App.png"> </code>
+
 ## Problem Statement
-AtliQ is a company that specializes in supplying computer hardware equipment. The company's CEO is currently facing challenges in tracking sales due to the dynamically growing market. As a result, there is a need for a more robust system to gain insights into sales data.
-
+*Identify and understand the challenges faced in sales tracking.*
 ## Project Overview
-In response to the challenges faced by AtliQ, it has been decided to implement AIMS Grade, a project management tool. AIMS Grade is designed to address the issues related to sales tracking and has four key components:
+*The goal of this project is to develop a sales tracking system that will help businesses to overcome the challenges of sales tracking and gain valuable insights from their sales data.*
 
-Purpose: The purpose of AIMS Grade is to provide a comprehensive solution for managing sales data and gaining valuable insights.
+### Dashboard is designed to address the issues related to sales tracking and has following users:
 
-Stakeholders: AIMS Grade involves collaboration among various stakeholders, including:
+*Marketers:* Use sales data to make marketing decisions.
 
-IT Team: Responsible for the technical implementation of the system.
-Marketers: Use sales data to make marketing decisions.
-Management Team: Requires sales reports for strategic planning.
-End Users: The end users of AIMS Grade are the individuals who will interact with the system to access sales data and reports.
+*Management Team:* Requires sales reports for strategic planning.
 
-Success Criteria: The success of AIMS Grade will be measured by its ability to provide accurate, timely, and actionable insights into sales data.
+## Workflow
 
-Falcon - Sales Management Software
-Falcon is a software developed and maintained by a team of software engineers. This team is responsible for the AtliQ Sales Management System, which is a simple software solution designed to keep track of all sales numbers. The sales data is stored in a MySQL database, and Falcon is the team that owns and manages this system. They work closely with a data analyst team known as the Data Masters.
+1.Problem statement and data discovery: Phase of the project will involve identifying and understanding the challenges faced in sales tracking, as well as exploring the available sales data and understanding its structure.
 
-### The project to improve sales tracking and data insights follows the following steps:
+<code> <img src="ps.png"> </code>
 
-Data Import in MySQL: The first step involves importing sales data into the MySQL database. This data forms the basis for analysis and reporting.
+2.Data Model and Relationships: A data model is established to define the relationships between various tables in the MySQL database. This may include implementing a star schema concept for efficient data retrieval.
 
-Data Model and Relationships: A data model is established to define the relationships between various tables in the MySQL database. This may include implementing a star schema concept for efficient data retrieval.
+<code> <img src="DM.png"> </code>
 
-### Flow of the Project:
+3.Data analysis using SQL: Phase of the project will involve using SQL to query and analyze the sales data to gain insights into sales performance.
 
-Problem Statement: Identify and understand the challenges faced in sales tracking.
-Data Discovery: Explore the available sales data and understand its structure.
-Data Analysis using SQL: Utilize SQL queries and analysis techniques to gain insights from the data.
-Data Cleaning and ETL (Extract, Transform, Load): Prepare the data for reporting by cleaning and transforming it as necessary.
-Build Dashboard: I have built the PowerBi as well as Tableau Dashboard for the sake of understanding.
-Publish a Report: Generated reports that provide meaningful insights to stakeholders.
-Dashboard in Mobile App: Ensure that the dashboard is accessible on mobile devices for convenient access to sales data.
-This GitHub repository will document the progress of the AIMS Grade project and provide information on how to set up and use Falcon, the Sales Management Software, as well as any related resources and documentation.
+<code> <img src="sql.png"> </code>
 
+4.Data cleaning and ETL: Involve cleaning and transforming the sales data for reporting.
 
+5.Dashboard development: Involve developing a dashboard to visualize the sales data and present it in a meaningful way.
 
+**Over Tablue**
+<code> <img src="Sales-Insights.png"> </code>
 
-
-
-
+# Thank You
